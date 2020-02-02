@@ -1,5 +1,8 @@
-This is the first project in the series of project that will help you think about how to build data products powered by
-Machine Learning. I recently started reading this book[Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/) and trying to build applications as I read through the chapters.
+This is the first project in the series of projects that will help you think about how to build data products powered by
+Machine Learning.
+
+I recently started reading this book[Building Machine Learning Powered Applications](https://www.oreilly.com/library/view/building-machine-learning/9781492045106/) and trying to apply the lessons learned from the book
+to building simple projects and get hands on experience on how to think about ML projects and evolving these projects to go from simple to more sophisticated methods.
 
 ## Shopify App Store Grader
 
